@@ -1,4 +1,4 @@
 # Organo
 
 Alura Curso - React: desenvolvendo com JavaScript
-teste com git
+Iniciando com git
